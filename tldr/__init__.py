@@ -13,9 +13,9 @@ All layers accessible separately (ARISTODE pattern) or combined.
 
 try:
     from importlib.metadata import version
-    __version__ = version("tldr-code")
+    __version__ = version("llm-tldr")
 except Exception:
-    __version__ = "1.0.1"
+    __version__ = "1.0.4"
 __author__ = "parcadei"
 
 # Original exports
